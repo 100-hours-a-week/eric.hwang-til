@@ -3,6 +3,7 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [2월, 1주차] : Git & Network
+25.02.06 네트워크 보안 ([상세 내역 링크](https://github.com/100-hours-a-week/eric.hwang-til/blob/main/Feb/2025-02-06.md)) \
 25.02.05 네트워크 라우팅 실습 ([상세 내역 링크](https://github.com/100-hours-a-week/eric.hwang-til/blob/main/Feb/2025-02-05.md)) \
 25.02.04 네트워크 실습  ([상세 내역 링크](https://github.com/100-hours-a-week/eric.hwang-til/blob/main/Feb/2025-02-04.md)) \
 25.02.03 네트워크 기초 강의  ([상세 내역 링크](https://github.com/100-hours-a-week/eric.hwang-til/blob/main/Feb/2025-02-03.md))\
